@@ -502,7 +502,7 @@ class _MapViewState extends State<MapView> {
                             child: Padding(
                               padding: const EdgeInsets.all(8.0),
                               child: Text(
-                                'Show Route'.toUpperCase(),
+                                'Chỉ đường'.toUpperCase(),
                                 style: TextStyle(
                                   color: Colors.white,
                                   fontSize: 20.0,
